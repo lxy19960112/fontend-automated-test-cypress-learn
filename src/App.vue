@@ -1,8 +1,9 @@
 <script setup>
+
 </script>
 
 <template>
-App.vue
+<el-button type="primary">1212</el-button>
 </template>
 
 <style>
