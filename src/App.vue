@@ -1,9 +1,10 @@
 <script setup>
+import MessageForm from './components/MessageForm.vue';
 
 </script>
 
 <template>
-<el-button type="primary">1212</el-button>
+  <MessageForm />
 </template>
 
 <style>
